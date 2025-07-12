@@ -11,7 +11,7 @@ This repo includes solutions for the following monthly TPS competitions:
 - ✅ March 2021  
 - ✅ April 2021  
 - ✅ May 2021  
-- ⬜ June 2021  
+- ✅ June 2021  
 - ⬜ July 2021  
 - ⬜ August 2021  
 - ⬜ September 2021  
